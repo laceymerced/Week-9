@@ -11,10 +11,10 @@ Query Log:
 /Query_Log/
 
 Pathway A Text Starter Project:
-/Pathway_A/
+Week9_TextStarter_LoopArrays
 
 Pathway B Video Tutorial Project:
-/Pathway_B/
+Week9_PathwayB_Revised
 
 Screenshots:
 /Screenshots/
@@ -22,5 +22,3 @@ Screenshots:
 Discord Proof:
 /Discord_Proof/
 
-Assets/Libraries:
-/Assets/
