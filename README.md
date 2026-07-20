@@ -7,6 +7,9 @@ This repository contains Lacey Merced and  Kristen Rainwaters Week 9 assignment.
 Reflection:
 /Reflection/
 
+Code  and  People Paragraph:
+/Reflection/
+
 Query Log:
 /Query_Log/
 
