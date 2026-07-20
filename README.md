@@ -14,10 +14,10 @@ Query Log:
 /Query_Log/
 
 Pathway A Text Starter Project:
-Week9_TextStarter_LoopArrays
+/Week9_TextStarter_LoopArrays/
 
 Pathway B Video Tutorial Project:
-Week9_PathwayB_Revised
+/Week9_PathwayB_Revised/
 
 Screenshots:
 /Screenshots/
