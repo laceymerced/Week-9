@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week 9\\Week9_TextStarter_LoopsArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11C476-3C62-454A-B290-CF1650B1A201}|Week9_TextStarter_LoopsArrays.vbproj|c:\\users\\lacey merced\\onedrive\\cs-120\\week 9\\week9_textstarter_loopsarrays\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E11C476-3C62-454A-B290-CF1650B1A201}|Week9_TextStarter_LoopsArrays.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week 9\\Week9_TextStarter_LoopsArrays\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week 9\\Week9_TextStarter_LoopsArrays\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-20T19:12:22.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

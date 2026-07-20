@@ -1,0 +1,14 @@
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.exe
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.deps.json
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.runtimeconfig.json
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.dll
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.pdb
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.AssemblyInfoInputs.cache
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.AssemblyInfo.vb
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.vbproj.CoreCompileInputs.cache
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.dll
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\refint\Week9_TextStarter_LoopsArrays.dll
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.pdb
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.genruntimeconfig.cache
+C:\Users\Lacey Merced\OneDrive\CS-120\Week 9\Week9_TextStarter_LoopsArrays\obj\Debug\net10.0\ref\Week9_TextStarter_LoopsArrays.dll
