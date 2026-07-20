@@ -25,3 +25,5 @@ Screenshots:
 Discord Proof:
 /Discord_Proof/
 
+# Notes
+Screenshots contains proof of Pathway A Vb code and running it. As well as Pathway B code, output and small personal change.
